@@ -1,2 +1,2 @@
-# MoneyManager
-MoneyManager adalah aplikasi web sederhana untuk mencatat keuangan yang dibuat menggunakan bahasa pemrograman php. MoneyManager memungkinkan untuk mencatat pemasukan dan pengeluaran secara sederhana.
+![MoneyManager](https://github.com/user-attachments/assets/db1767bb-056a-43d2-b82d-2c7925f8802f)
+
